@@ -22,9 +22,6 @@ div {
 </head>
 <body>
 
-<p>
-<img src="http://headfirstlabs.com/Images/hfguy.jpg" alt="Head First Guy">
-</p>
 
 <div>
 <p>
